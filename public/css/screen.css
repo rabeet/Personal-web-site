@@ -15,11 +15,16 @@ h1, h2 {
   line-height: 1.25em;
 }
 
+h4 {
+  margin-top:0.5em;
+  font-size:12pt;
+}
+
 header {
   margin: 0;
   margin-bottom: 8pt;
   padding-top: 12pt;
-  padding-bottom: 26pt;
+  /*padding-bottom: 10pt;*/
   border: 1px solid black;
   color: #fff;
   background: #000;
