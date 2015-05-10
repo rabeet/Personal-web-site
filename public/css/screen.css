@@ -1,7 +1,7 @@
 body {
   margin: 0;
   padding: 0;
-  font-family: Georgia, sans-serif;
+  font-family: Georgia;
   line-height: 1.5em;
   font-size: 12pt;
 }
@@ -29,11 +29,19 @@ header {
 }
 
 header h1 a {
-  background: url(/images/symbol.png) top center no-repeat;
+  /*background: url(/images/pic.jpg) top center no-repeat;*/
   color: #FFFFFF;
   display: block;
-  margin-top: 0.25em;
+  text-decoration: none;
+}
+
+.pic {
+  background: url(/images/pic.jpg) top center no-repeat;
+  color: #FFFFFF;
+  display: block;
+  margin-top: 0.50em;
   padding-top: 100px;
+  padding-bottom: 50px;
   text-decoration: none;
 }
 
