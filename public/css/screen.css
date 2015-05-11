@@ -94,8 +94,16 @@ section.concrete h2 {
   margin-top: 12pt;
 }
 section.concrete h2 a {
-  text-decoration: none;
+  border-bottom: none;
   color: #000;
+}
+section.concrete a {
+  text-decoration: none;
+  border-bottom: 1px dashed #444;
+  color: #000;
+}
+section.concrete a:hover {
+  color: #337;
 }
 section.concrete h2 a:hover {
   border-bottom: 2px dashed #444;
