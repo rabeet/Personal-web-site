@@ -25,6 +25,10 @@ get '/' do
   erb :home
 end
 
+get '/hertz-hackathon' do
+  redirect "http://www.hackathon.io/hertz-fgcu"
+end
+
 TOC = %w(codebase dependencies config backing-services build-release-run processes port-binding concurrency disposability dev-prod-parity logs admin-processes)
 
 get '/:factor' do |factor|
