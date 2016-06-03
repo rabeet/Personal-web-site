@@ -7,4 +7,4 @@ Previously
 Currently
 =========
 
-* I am a graduate student at Florida Polytechnic University completing my masters in Innovation and Technology.
+* I am a graduate student at Florida Polytechnic University completing my masters in Innovation and Technology, expecting to graduate by the end of Fall 2016.
