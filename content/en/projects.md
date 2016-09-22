@@ -1,10 +1,6 @@
 Previously
 ==========
 
-* During college days I started a web-design company with a friend called [Simple Media Marketing](http://www.simplemediamarketing.net) and provided web development and marketing services to 5 local firms in Southwest Florida.
-* I have also done freelance work on websites such as [Praducks.com](https://www.praducks.com) as the core developer.
-
-Currently
-=========
-
-* I am a graduate student at Florida Polytechnic University completing my masters in Innovation and Technology, expecting to graduate by the end of Fall 2016.
+I was an avid web developer during my college days. Some examples of my work include: 
+* Started [Simple Media Marketing](http://www.simplemediamarketing.net) with a colleague to provide web development and marketing services to local firms in Southwest Florida.
+* Freelance work on [Praducks.com](https://praducks.herokuapp.com/) as the core developer. PostgreSQL backed web-store written in Ruby on Rails that implements Stripe credit card processing API, ElasticSearch integration, SendGrid email integration, and Active Admin integration.
