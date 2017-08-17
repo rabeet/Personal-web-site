@@ -29,6 +29,7 @@ get '/hertz-hackathon' do
   redirect "http://www.hackathon.io/hertz-fgcu"
 end
 
+
 get '/resume' do
   redirect "https://drive.google.com/file/d/0B3-jfSdy2_lZMEYwLVlHYUJtLUU/view?usp=sharing"
 end
