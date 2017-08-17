@@ -35,7 +35,7 @@ header {
 
 
 header h1 a {
-  background: url(/images/pic_.jpg) top center no-repeat;
+  /*background: url(/images/pic_.jpg) top center no-repeat;*/
   color: #FFFFFF;
   display: block;
   text-decoration: none;
@@ -43,7 +43,7 @@ header h1 a {
 
 
 .pic {
-  background: url(/images/pic_.jpg) top center no-repeat;
+  background: url(/images/pic.jpg) top center no-repeat;
   color: #FFFFFF;
   display: block;
   margin-top: 0.50em;
