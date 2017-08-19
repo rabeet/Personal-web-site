@@ -31,7 +31,7 @@ end
 
 
 get '/resume' do
-  redirect "https://drive.google.com/file/d/0B3-jfSdy2_lZMEYwLVlHYUJtLUU/view?usp=sharing"
+  redirect "https://drive.google.com/file/d/0B3-jfSdy2_lZNTRISHdMX2pQT2s/view?usp=sharing"
 end
 
 TOC = %w(codebase dependencies config backing-services build-release-run processes port-binding concurrency disposability dev-prod-parity logs admin-processes)
