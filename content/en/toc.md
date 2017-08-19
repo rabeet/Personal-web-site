@@ -1,4 +1,4 @@
-(School) Projects I have worked on
+Projects I have worked on
 =========================
 
 ## [I. Polyglot Persistence - Web application](https://github.com/rabeet/advanced-db-integration-project)
